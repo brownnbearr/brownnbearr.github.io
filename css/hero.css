@@ -36,8 +36,8 @@ main{
 }
 main img{
   max-width: 100%;
-  margin: 0;
-  display: block; 
+  margin: auto;
+  display: block;
 }
 a{
   color: red;
