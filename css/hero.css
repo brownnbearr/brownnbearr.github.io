@@ -5,11 +5,13 @@ body{
   line-height: 30px;
 }
 header{
-  background-color: red;
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
+      text-align: center;
+      padding: 50px;
+      background-image: img src="img/spiderman-banner";
+      background-position: top center;
+      background-attachment: fixed;
+  }
+
 h1, h2{
   font-family: 'Bangers', cursive;
 }
